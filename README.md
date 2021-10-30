@@ -1,5 +1,5 @@
 # Ball-Retrieving-Car
-#### Codes for a ping-pong ball retrieving car. It's a project for the "Special Project of Circuit Design Techniques" course.
+#### Hand-made ping-pong ball retrieving car. It's a project for the "Special Project of Circuit Design Techniques" course.
 demo video in the repository.
 
 
