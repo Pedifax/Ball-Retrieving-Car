@@ -2,6 +2,8 @@
 #### Hand-made ping-pong ball retrieving car. It's a project for the "Special Project of Circuit Design Techniques" course.
 demo video in the repository.
 
+#### Code went missing as the Jetson Nano board (and the whole car) got taken away by the professor 🫤 
+
 
 ![r1](https://user-images.githubusercontent.com/56227873/111905911-0c830d80-8a89-11eb-93b7-548f4b3b8af0.gif)
 ![r2](https://user-images.githubusercontent.com/56227873/111905882-e9585e00-8a88-11eb-84b3-2b078eea73dd.gif)
